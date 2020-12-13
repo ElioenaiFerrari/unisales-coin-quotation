@@ -1,24 +1,23 @@
-# coin-quotation
+# this is a final project of unisales university
 
-## Project setup
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+yarn or npm i
 ```
 
-### Compiles and minifies for production
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+yarn serve or npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Subject -> frontend
+
+## Teacher -> Wesley
+
+## Created by
+
+### Elioenai Ferrari
+
+### Gabriel Santiliano
+
+### Diego Yuri
+
+### Vitor Augusto

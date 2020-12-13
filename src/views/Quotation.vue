@@ -12,7 +12,7 @@
         {{ coin.name }}
       </h3>
 
-      <h1 v-if="coin.market_data">
+      <h1 class="primary--text" v-if="coin.market_data">
         {{ floatToCurrency(coin.market_data.current_price.brl) }}
       </h1>
 

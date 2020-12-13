@@ -6,7 +6,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    coin: {},
+    coin: null,
     availableCoins: [
       { name: 'bitcoin' },
       { name: 'chainlink' },

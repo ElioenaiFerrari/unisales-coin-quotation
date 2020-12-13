@@ -6,7 +6,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/quotation',
+    path: '/',
     name: 'Quotation',
     component: Quotation,
     props: {

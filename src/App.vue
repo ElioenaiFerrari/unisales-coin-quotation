@@ -1,12 +1,11 @@
 <template>
-  <Drawer />
+  <v-app>
+    <v-container class="fill-height" fluid>
+      <router-view />
+    </v-container>
+  </v-app>
 </template>
 
 <script>
-import Drawer from './components/Drawer';
-export default {
-  components: {
-    Drawer,
-  },
-};
+export default {};
 </script>
